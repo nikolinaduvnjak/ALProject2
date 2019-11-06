@@ -2,7 +2,103 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en-US" target-language="en-US" original="ALProject2">
     <body>
-      <group id="body" />
+      <group id="body">
+        <trans-unit id="Table 3419750289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Travel Header</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Travel Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3419750289 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Travel Header - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3419750289 - Field 474480784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Travel Header - Field Start Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3419750289 - Field 2649176925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Travel Header - Field End Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3419750289 - Field 1964419135 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Travel Header - Field Employee No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3419750289 - Field 1480804031 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Travel Header - Field Employee Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3776931498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Travel Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Travel Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3776931498 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Travel Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3776931498 - Field 474480784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Travel Line - Field Start Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3776931498 - Field 2649176925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Travel Line - Field End Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3776931498 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Travel Line - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3776931498 - Field 3040929904 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Destination</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Travel Line - Field Destination - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3776931498 - Field 1460302909 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Destination Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Travel Line - Field Destination Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3040929904 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Destination</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Destination - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3040929904 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Destination - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3040929904 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Destination - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 749519809 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Travel Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Travel Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4158306733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Travel Document Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Travel Document Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 714350231 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Travel Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Travel Lines - Property Caption</note>
+        </trans-unit>
+      </group>
     </body>
   </file>
 </xliff>
