@@ -54,7 +54,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Table Travel Line - Field End Date - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3776931498 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>No.</source>
+          <source>Document No.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Travel Line - Field Document No. - Property Caption</note>
         </trans-unit>
@@ -78,10 +78,10 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Destination - Field No. - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 3040929904 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Table 3040929904 - Field 1460302909 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Name</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Destination - Field Name - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Destination - Field Destination Name - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 749519809 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Travel Document</source>

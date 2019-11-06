@@ -10,7 +10,7 @@ table 50102 Destination
             Caption = 'No.';
             DataClassification = ToBeClassified;
         }
-        field(2; Name; Text[100])
+        field(2; "Destination Name"; Text[100])
         {
             Caption = 'Name';
             DataClassification = ToBeClassified;

@@ -23,7 +23,7 @@ table 50101 "Travel Line"
         }
         field(1; "Document No."; Code[20])
         {
-            Caption = 'No.';
+            Caption = 'Document No.';
             DataClassification = ToBeClassified;
         }
         field(5; "Destination"; Code[20])
@@ -38,10 +38,9 @@ table 50101 "Travel Line"
     }
     keys
     {
-        key(PK; "Line No.")
+        key(PK; "Document No.", "Line No.")
         {
             Clustered = true;
         }
     }
-
 }

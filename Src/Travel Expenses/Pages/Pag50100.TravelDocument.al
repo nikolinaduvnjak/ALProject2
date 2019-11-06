@@ -14,6 +14,10 @@ page 50100 "Travel Document"
         {
             repeater(General)
             {
+                field("Document No."; "No.")
+                {
+                    ApplicationArea = All;
+                }
                 field("Employee Name"; "Employee Name")
                 {
                     ApplicationArea = All;
