@@ -83,20 +83,30 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Destination - Field Destination Name - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 3040929904 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Destination</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Destination - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1971363224 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Travel Documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Travel Documents - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 749519809 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Travel Document</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Travel Document - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 4158306733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Travel Document Card</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Travel Document Card - Property Caption</note>
-        </trans-unit>
         <trans-unit id="Page 714350231 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Travel Lines</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Travel Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1647582417 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Destinations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Destinations - Property Caption</note>
         </trans-unit>
       </group>
     </body>

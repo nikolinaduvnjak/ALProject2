@@ -11,12 +11,12 @@ table 50101 "Travel Line"
             Caption = 'Line No.';
             DataClassification = ToBeClassified;
         }
-        field(3; "Start Date"; Date)
+        field(3; "Start Date"; DateTime)
         {
             Caption = 'Start Date';
             DataClassification = ToBeClassified;
         }
-        field(4; "End Date"; Date)
+        field(4; "End Date"; DateTime)
         {
             Caption = 'End Date';
             DataClassification = ToBeClassified;
@@ -30,6 +30,15 @@ table 50101 "Travel Line"
         {
             Caption = 'Destination';
             DataClassification = ToBeClassified;
+            TableRelation = Destination."No.";
+
+            trigger OnValidate()
+            var
+                Destination: Record Destination;
+            begin
+                if Destination.Get(Destination) then
+                    "Destination Name" := Destination."Destination Name";
+            end;
         }
         field(6; "Destination Name"; text[100])
         {

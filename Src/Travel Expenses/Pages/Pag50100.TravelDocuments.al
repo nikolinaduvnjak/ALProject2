@@ -1,12 +1,13 @@
-page 50100 "Travel Document"
+page 50100 "Travel Documents"
 {
 
     PageType = List;
     SourceTable = "Travel Header";
-    Caption = 'Travel Document';
+    Caption = 'Travel Documents';
     ApplicationArea = All;
     UsageCategory = Lists;
-    CardPageId = 50101;
+    Editable = false;
+    CardPageId = "Travel Document";
 
     layout
     {
@@ -14,11 +15,7 @@ page 50100 "Travel Document"
         {
             repeater(General)
             {
-                field("Document No."; "No.")
-                {
-                    ApplicationArea = All;
-                }
-                field("Employee Name"; "Employee Name")
+                field("No."; "No.")
                 {
                     ApplicationArea = All;
                 }
@@ -26,7 +23,15 @@ page 50100 "Travel Document"
                 {
                     ApplicationArea = All;
                 }
-                field("No."; "No.")
+                field("Employee Name"; "Employee Name")
+                {
+                    ApplicationArea = All;
+                }
+                field("Start Date"; "Start Date")
+                {
+                    ApplicationArea = All;
+                }
+                field("End Date"; "End Date")
                 {
                     ApplicationArea = All;
                 }

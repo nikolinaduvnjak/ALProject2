@@ -1,9 +1,9 @@
-page 50101 "Travel Document Card"
+page 50101 "Travel Document"
 {
 
     PageType = Card;
     SourceTable = "Travel Header";
-    Caption = 'Travel Document Card';
+    Caption = 'Travel Document';
 
     layout
     {
@@ -19,15 +19,23 @@ page 50101 "Travel Document Card"
                 {
                     ApplicationArea = All;
                 }
+                field("End Date"; "End Date")
+                {
+                    ApplicationArea = All;
+                }
                 field("No."; "No.")
                 {
                     ApplicationArea = All;
                 }
+                field("Start Date"; "Start Date")
+                {
+                    ApplicationArea = All;
+                }
             }
-            part(TravelLines; "Travel Lines")
+            part(TravelLine; "Travel Lines")
             {
                 ApplicationArea = All;
-                SubPageLink = "Document No." = field("No.");
+                SubPageLink = "Document No." = FIELD("No.");
             }
         }
     }

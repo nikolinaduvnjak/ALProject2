@@ -25,6 +25,13 @@ table 50100 "Travel Header"
             Caption = 'Employee No.';
             DataClassification = CustomerContent;
             TableRelation = Employee."No.";
+            trigger OnValidate()
+            var
+                Employee: Record Employee;
+            begin
+                if Employee.Get("Employee No.") then
+                    "Employee Name" := Employee.FullName();
+            end;
         }
         field(5; "Employee Name"; text[100])
         {
