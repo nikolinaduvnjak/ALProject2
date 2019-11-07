@@ -38,6 +38,7 @@ table 50100 "Travel Header"
             Caption = 'Employee Name';
             DataClassification = ToBeClassified;
         }
+
     }
     keys
     {

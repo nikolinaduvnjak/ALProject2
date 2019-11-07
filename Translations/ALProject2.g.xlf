@@ -68,6 +68,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Travel Line - Field Destination Name - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 3776931498 - Field 1895217469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cost Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Travel Line - Field Cost Type - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 3040929904 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Destination</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -79,14 +84,9 @@
           <note from="Xliff Generator" annotates="general" priority="3">Table Destination - Field No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3040929904 - Field 1460302909 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Name</source>
+          <source>Destination Name</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Destination - Field Destination Name - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 3040929904 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Destination</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page Destination - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1971363224 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Travel Documents</source>
@@ -107,6 +107,26 @@
           <source>Destinations</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Destinations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3359720573 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Travel Cost  Type - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3359720573 - EnumValue 2668795821 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Road Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Travel Cost  Type - EnumValue Road Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3359720573 - EnumValue 1894456455 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Accomodation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Travel Cost  Type - EnumValue Accomodation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3359720573 - EnumValue 736648186 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mileage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Travel Cost  Type - EnumValue Mileage - Property Caption</note>
         </trans-unit>
       </group>
     </body>

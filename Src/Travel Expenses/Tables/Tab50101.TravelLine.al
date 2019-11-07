@@ -43,6 +43,11 @@ table 50101 "Travel Line"
         field(6; "Destination Name"; text[100])
         {
             DataClassification = ToBeClassified;
+            Editable = false;
+        }
+        field(7; "Cost Type"; Enum "Travel Cost  Type")
+        {
+            DataClassification = ToBeClassified;
         }
     }
     keys
