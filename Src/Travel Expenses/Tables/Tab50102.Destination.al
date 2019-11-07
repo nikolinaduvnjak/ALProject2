@@ -2,6 +2,8 @@ table 50102 Destination
 {
     Caption = 'Destination';
     DataClassification = ToBeClassified;
+    LookupPageId = Destinations;
+    DrillDownPageId = Destinations;
 
     fields
     {
@@ -12,7 +14,7 @@ table 50102 Destination
         }
         field(2; "Destination Name"; Text[100])
         {
-            Caption = 'Name';
+            Caption = 'Destination Name';
             DataClassification = ToBeClassified;
         }
     }

@@ -36,7 +36,7 @@ table 50101 "Travel Line"
             var
                 Destination: Record Destination;
             begin
-                if Destination.Get(Destination) then
+                if Destination.Get(Rec.Destination) then
                     "Destination Name" := Destination."Destination Name";
             end;
         }
